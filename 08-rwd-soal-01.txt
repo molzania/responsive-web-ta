@@ -1,0 +1,11 @@
+Apa itu responsive web design?
+Sebutkan apa saja relative units yang dimiliki oleh CSS?
+Apa itu breakpoint? Bagaimana cara kita membuat hal tersebut?
+Apa yang dapat kita gunakan untuk memanipulasi tata letak suatu element dalam bidang 1 dimensi?
+Apa yang dapat kita gunakan untuk memanipulasi tata letak suatu element dalam bidang 2 dimensi?
+
+Jawaban :
+1. desain sebuah website yang ramah pengguna dan memiliki user interface yang menyesuaikan dengan berbagai ukuran device yang dimiliki user.
+2. em,ex, ch, rem, vw, vh, vmin, vmax, %
+3. flexbox
+4. grid, 
